@@ -1,0 +1,18 @@
+#these are words
+water
+liquid
+
+fire
+plain
+earth
+
+#benders
+Aang
+Korra
+Roku
+Kyoshi
+
+Yangchen
+Kuruk
+
+Szeto
